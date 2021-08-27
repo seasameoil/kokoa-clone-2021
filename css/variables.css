@@ -1,4 +1,8 @@
 :root {
   --yellow: #fae100;
   --horizontial-space: 20px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --gray3: rgba(0, 0, 0, 0.3);
+  --gray5: rgba(0, 0, 0, 0.5);
+  --gray8: rgba(0, 0, 0, 0.8);
 }
